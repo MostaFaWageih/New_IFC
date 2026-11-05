@@ -1,0 +1,3 @@
+clip,t_s,storey,grid_a,grid_b,offset_x_m,offset_y_m,offset_z_m,x_m,y_m,heading_override,confidence,reason,landmarks
+VID_20261031_122934_022,0,HAC-SSL-FL2,,,,,0.7,57.0,23.0,,low,"Under the formwork deck among blue shoring (deck soffit overhead), 36 s after clip 021: continues from its end.",blue shoring; timber deck overhead
+VID_20261031_122934_022,30,HAC-SSL-FL2,,,,,0.7,62.0,22.0,,low,"Reaches the edge of the shored area by bundles of red and blue pipes (t=24-30 s), towards the stair up to the deck where clip 023 is filmed 1.5 min later.",red and blue pipe bundles; deck edge

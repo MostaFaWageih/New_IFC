@@ -1,0 +1,17 @@
+guid,status,evidence,note,source
+1zYNzWgODBL9V9cdOOWbrp,cast,VID_20261031_122934_022/t00030s,Plain-concrete blinding: the raft rebar mats seen in the frames sit on cast blinding.,ai-rule
+3ERnecAkP14hz4_JSu2UQ_,cast,VID_20261031_122934_022/t00030s,"Under the formwork deck: the shoring stands on concrete, so the raft here is cast (clip 022).",ai-rule
+3061ju5N94YvDiTWXiyN8N,not visible,VID_20261031_122934_022/t00030s,Cannot pick this element out in the nearest frames.,ai-rule
+2Ip7HNHkH8QuUSM6MpN1Rb,cast,VID_20261031_122934_022/t00000s,Grey cast column ~2-3 m ahead among the shoring under the deck (clip 022 t=0).,ai
+2Ip7HNHkH8QuUSM6MpN1Qv,not visible,VID_20261031_122934_022/t00004s,Cannot pick this element out in the nearest frames.,ai-rule
+34M8DLIf5DehrtLoKQzATF,cast,VID_20261031_122934_022/t00030s,"Under the formwork deck: the shoring stands on concrete, so the raft here is cast (clip 022).",ai-rule
+34M8DLIf5DehrtLoKQzA8P,cast,VID_20261031_122934_022/t00026s,"Under the formwork deck: the shoring stands on concrete, so the raft here is cast (clip 022).",ai-rule
+34M8DLIf5DehrtLoKQzA8l,cast,VID_20261031_122934_022/t00030s,"Under the formwork deck: the shoring stands on concrete, so the raft here is cast (clip 022).",ai-rule
+34M8DLIf5DehrtLoKQzA7A,cast,VID_20261031_122934_022/t00022s,"Under the formwork deck: the shoring stands on concrete, so the raft here is cast (clip 022).",ai-rule
+2VG9KaZu15AgEfkEGgH3hO,cast,VID_20261031_122934_022/t00030s,Plain-concrete blinding: the raft rebar mats seen in the frames sit on cast blinding.,ai-rule
+2VG9KaZu15AgEfkEGgH3_0,cast,VID_20261031_122934_022/t00030s,Plain-concrete blinding: the raft rebar mats seen in the frames sit on cast blinding.,ai-rule
+2VG9KaZu15AgEfkEGgH3_3,cast,VID_20261031_122934_022/t00022s,Plain-concrete blinding: the raft rebar mats seen in the frames sit on cast blinding.,ai-rule
+2VG9KaZu15AgEfkEGgH3_1,cast,VID_20261031_122934_022/t00030s,Plain-concrete blinding: the raft rebar mats seen in the frames sit on cast blinding.,ai-rule
+2hYBDe7tm7LvcB8rOx2ors,formwork,VID_20261031_122934_022/t00030s,Within the timber formwork deck the camera stands on (clip 023) / walks under (clip 022).,ai-rule
+1suYo1DngwP6mtq8opaKfJ,not visible,VID_20261031_122934_022/t00004s,Too far from the deck edge to tell from the frames.,ai-rule
+2Ye7xAHp1iYr$jlB84vtY9,formwork,VID_20261031_122934_022/t00000s,Within the timber formwork deck the camera stands on (clip 023) / walks under (clip 022).,ai-rule
