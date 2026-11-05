@@ -1,0 +1,156 @@
+{
+  "location_on_ifc": {
+    "order": 8,
+    "clip": "VID_20261031_121713_010",
+    "stem": "t00016s",
+    "frame": "t00016s.jpg",
+    "t_s": 16,
+    "taken": "2026-10-31 12:17:29+02:00",
+    "kind": "interpolated",
+    "storey": "HAC-SSL-FL2",
+    "grid_ref": "18/D",
+    "dist_to_grid_m": 1.274934,
+    "grid_dx_m": 0.92868,
+    "grid_dy_m": -0.873505,
+    "x": 49.4,
+    "y": 37.3,
+    "z": 153.026545,
+    "ifc_x_mm": -343721600.0,
+    "ifc_y_mm": -402342700.0,
+    "ifc_z_mm": 153026.544883,
+    "easting": 687413.667163,
+    "northing": 806394.517377,
+    "lat": 29.9655,
+    "lon": 31.751906,
+    "confidence": "low",
+    "reason": "Interpolated 80% of the way from t=0s to t=20s (walking straight between two keyframes); see those keyframes' reasons.",
+    "landmarks": null,
+    "heading": 14.037423,
+    "heading_source": "sun",
+    "kf_prev_t": 0.0,
+    "kf_next_t": 20.0,
+    "step_dist_m": 0.0,
+    "step_bearing_deg": 0.0,
+    "nearest_photo": "P07",
+    "nearest_photo_dist_m": 4.555844,
+    "gmaps": "https://maps.google.com/?q=29.965500,31.751906",
+    "gmaps_walk": "https://www.google.com/maps/dir/?api=1&destination=29.965500,31.751906&travelmode=walking",
+    "eye_x": 49.4,
+    "eye_y": 37.3,
+    "eye_z": 153.026545,
+    "target_x": 51.825556,
+    "target_y": 47.001375,
+    "target_z": 153.026545,
+    "id": "VID_20261031_121713_010/t00016s",
+    "nearby": [
+      {
+        "guid": "0sGg7tRy51R9NRxeepnSJo",
+        "ifc_class": "IfcBeam",
+        "name": "RC_Rectangular Beams:B(1000X1300):772770",
+        "storey": "HAC-SSL-GF",
+        "area": "AFX.A-G/18",
+        "status": "not started",
+        "dist": 1.8
+      },
+      {
+        "guid": "2Ip7HNHkH8QuUSM6MpN0WM",
+        "ifc_class": "IfcColumn",
+        "name": "RC_Rectangular Columns:C(1000x2100)mm:618474",
+        "storey": "HAC-SSL-FL2",
+        "area": "AFX.A-G/AFX.A-16",
+        "status": "rebar",
+        "dist": 3.4
+      },
+      {
+        "guid": "0_KmFx3qttKdfqFN3hsh6n",
+        "ifc_class": "IfcSlab",
+        "name": "Foundation Slab:1000mm THK Foundation Slab:584432:40",
+        "storey": "HAC-SSL-FL2",
+        "area": "AFX.A-G/AFX.A-16",
+        "status": "rebar",
+        "dist": 3.4
+      },
+      {
+        "guid": "2Ip7HNHkH8QuUSM6MpN0X6",
+        "ifc_class": "IfcColumn",
+        "name": "RC_Rectangular Columns:C(800x800)mm:618426",
+        "storey": "HAC-SSL-FL2",
+        "area": "AFX.A-G/AFX.A-17",
+        "status": "formwork",
+        "dist": 5.3
+      },
+      {
+        "guid": "13pyf5e9IYlLG7HNQ4BwGy",
+        "ifc_class": "IfcSlab",
+        "name": "Foundation Slab:1000mm THK Foundation Slab:584432:33",
+        "storey": "HAC-SSL-FL2",
+        "area": "AFX.A-I/AFX.A-16",
+        "status": "rebar",
+        "dist": 5.7
+      },
+      {
+        "guid": "2Ip7HNHkH8QuUSM6MpN0Zd",
+        "ifc_class": "IfcColumn",
+        "name": "RC_Rectangular Columns:C(1000x1000)mm:618267",
+        "storey": "HAC-SSL-FL2",
+        "area": "AFX.A-I/AFX.A-16",
+        "status": "formwork",
+        "dist": 5.7
+      },
+      {
+        "guid": "2Ip7HNHkH8QuUSM6MpN0Xj",
+        "ifc_class": "IfcColumn",
+        "name": "RC_Rectangular Columns:C(1000x1000)mm:618385",
+        "storey": "HAC-SSL-FL2",
+        "area": "AFX.A-I/AFX.A-17",
+        "status": "cast",
+        "dist": 6.9
+      },
+      {
+        "guid": "2vH$jrDsuQ1R9X_qp2pMuD",
+        "ifc_class": "IfcSlab",
+        "name": "Foundation Slab:1000mm THK Foundation Slab:584432:34",
+        "storey": "HAC-SSL-FL2",
+        "area": "AFX.A-I/AFX.A-17",
+        "status": "rebar",
+        "dist": 6.9
+      },
+      {
+        "guid": "2Ip7HNHkH8QuUSM6MpN0cb",
+        "ifc_class": "IfcColumn",
+        "name": "RC_Rectangular Columns:C(1000x1000)mm:618073",
+        "storey": "HAC-SSL-FL2",
+        "area": "AFX.A-G/AFX.A-15",
+        "status": "rebar",
+        "dist": 9.5
+      },
+      {
+        "guid": "2Ip7HNHkH8QuUSM6MpN1SN",
+        "ifc_class": "IfcColumn",
+        "name": "RC_Rectangular Columns:C(1000x1000)mm:618731",
+        "storey": "HAC-SSL-FL2",
+        "area": "AFX.A-16/C",
+        "status": "rebar",
+        "dist": 9.9
+      }
+    ]
+  },
+  "camera_combined": {
+    "x": 49.4,
+    "y": 37.3,
+    "z": 153.03,
+    "heading": 14.04,
+    "RENDER_RADIUS_M": 80,
+    "FACE_PX": 1024,
+    "PANO_W": 4096,
+    "model": "combined",
+    "DESIGN_ABOVE_M": 4.0,
+    "HORIZONTAL": [
+      "IfcSlab",
+      "IfcBeam",
+      "IfcCovering",
+      "IfcRoof"
+    ],
+    "ARCH_COLOUR": "#e3cf9a"
+  }
+}
