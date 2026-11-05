@@ -1,0 +1,165 @@
+{
+  "location_on_ifc": {
+    "order": 112,
+    "clip": "VID_20261031_122827_021",
+    "stem": "t00000s",
+    "frame": "t00000s.jpg",
+    "t_s": 0,
+    "taken": "2026-10-31 12:28:27+02:00",
+    "kind": "keyframe",
+    "storey": "HAC-SSL-FL2",
+    "grid_ref": "AFX.A-G/19",
+    "dist_to_grid_m": 0.25598,
+    "grid_dx_m": 0.119272,
+    "grid_dy_m": 0.226495,
+    "x": 49.5,
+    "y": 30.0,
+    "z": 153.026545,
+    "ifc_x_mm": -343721500.0,
+    "ifc_y_mm": -402350000.0,
+    "ifc_z_mm": 153026.544883,
+    "easting": 687413.767163,
+    "northing": 806387.217377,
+    "lat": 29.965434,
+    "lon": 31.751907,
+    "confidence": "low",
+    "reason": "Starts by the same red formwork and timber platform scaffold seen at the end of clip 020 (36 s earlier).",
+    "landmarks": "red formwork; timber platform scaffold",
+    "heading": 76.710219,
+    "heading_source": "sun",
+    "kf_prev_t": 0.0,
+    "kf_next_t": 0.0,
+    "step_dist_m": 0.5,
+    "step_bearing_deg": 90.0,
+    "nearest_photo": "P07",
+    "nearest_photo_dist_m": 9.269014,
+    "gmaps": "https://maps.google.com/?q=29.965434,31.751907",
+    "gmaps_walk": "https://www.google.com/maps/dir/?api=1&destination=29.965434,31.751907&travelmode=walking",
+    "eye_x": 49.5,
+    "eye_y": 30.0,
+    "eye_z": 153.026545,
+    "target_x": 59.232199,
+    "target_y": 32.298762,
+    "target_z": 153.026545,
+    "id": "VID_20261031_122827_021/t00000s",
+    "nearby": [
+      {
+        "guid": "2Ip7HNHkH8QuUSM6MpN0X6",
+        "ifc_class": "IfcColumn",
+        "name": "RC_Rectangular Columns:C(800x800)mm:618426",
+        "storey": "HAC-SSL-FL2",
+        "area": "AFX.A-G/AFX.A-17",
+        "status": "formwork",
+        "dist": 2.0
+      },
+      {
+        "guid": "22J8uFbRj46P9YxwF6X6i_",
+        "ifc_class": "IfcSlab",
+        "name": "Foundation Slab:1700mm THK Tower Cranes:2948222",
+        "storey": "HAC-SSL-FL2",
+        "area": "19/C",
+        "status": "rebar",
+        "dist": 5.1
+      },
+      {
+        "guid": "2vH$jrDsuQ1R9X_qp2pMuD",
+        "ifc_class": "IfcSlab",
+        "name": "Foundation Slab:1000mm THK Foundation Slab:584432:34",
+        "storey": "HAC-SSL-FL2",
+        "area": "AFX.A-I/AFX.A-17",
+        "status": "rebar",
+        "dist": 6.5
+      },
+      {
+        "guid": "2Ip7HNHkH8QuUSM6MpN0Xj",
+        "ifc_class": "IfcColumn",
+        "name": "RC_Rectangular Columns:C(1000x1000)mm:618385",
+        "storey": "HAC-SSL-FL2",
+        "area": "AFX.A-I/AFX.A-17",
+        "status": "cast",
+        "dist": 6.5
+      },
+      {
+        "guid": "2aiUILnHv4$h0UpsR0yca1",
+        "ifc_class": "IfcSlab",
+        "name": "Floor:150 mm THK.:1468401",
+        "storey": "HAC-SSL-SG",
+        "area": "AFX.A-I/AFX.A-18",
+        "status": "not started",
+        "dist": 7.9
+      },
+      {
+        "guid": "2Ip7HNHkH8QuUSM6MpN1VK",
+        "ifc_class": "IfcColumn",
+        "name": "RC_Rectangular Columns:C(1000x2100)mm:618536",
+        "storey": "HAC-SSL-FL2",
+        "area": "AFX.A-G/20",
+        "status": "not visible",
+        "dist": 8.0
+      },
+      {
+        "guid": "0qCn1vTfXEzBYkihO0HX_u",
+        "ifc_class": "IfcSlab",
+        "name": "Floor:550 mm THK.:1304588",
+        "storey": "HAC-SSL-GF",
+        "area": "AFX.A-17/C",
+        "status": "not started",
+        "dist": 8.5
+      },
+      {
+        "guid": "2Ip7HNHkH8QuUSM6MpN1T7",
+        "ifc_class": "IfcColumn",
+        "name": "RC_Rectangular Columns:C(800x800)mm:618683",
+        "storey": "HAC-SSL-FL2",
+        "area": "AFX.A-17/C",
+        "status": "not visible",
+        "dist": 8.5
+      },
+      {
+        "guid": "0sGg7tRy51R9NRxeepnSJo",
+        "ifc_class": "IfcBeam",
+        "name": "RC_Rectangular Beams:B(1000X1300):772770",
+        "storey": "HAC-SSL-GF",
+        "area": "AFX.A-G/18",
+        "status": "not started",
+        "dist": 8.7
+      },
+      {
+        "guid": "2JOwQx1aScR_9DdOoMrnQO",
+        "ifc_class": "IfcSlab",
+        "name": "Foundation Slab:1000mm THK Foundation Slab:584432:35",
+        "storey": "HAC-SSL-FL2",
+        "area": "AFX.A-I/AFX.A-18",
+        "status": "rebar",
+        "dist": 8.8
+      },
+      {
+        "guid": "2Ip7HNHkH8QuUSM6MpN1UV",
+        "ifc_class": "IfcColumn",
+        "name": "RC_Rectangular Columns:C(1000x1000)mm:618595",
+        "storey": "HAC-SSL-FL2",
+        "area": "AFX.A-I/AFX.A-18",
+        "status": "not visible",
+        "dist": 8.8
+      }
+    ]
+  },
+  "camera_combined": {
+    "x": 49.5,
+    "y": 30.0,
+    "z": 153.03,
+    "heading": 76.71,
+    "RENDER_RADIUS_M": 80,
+    "FACE_PX": 1024,
+    "PANO_W": 4096,
+    "model": "combined",
+    "DESIGN_ABOVE_M": 4.0,
+    "HORIZONTAL": [
+      "IfcSlab",
+      "IfcBeam",
+      "IfcCovering",
+      "IfcRoof"
+    ],
+    "ARCH_COLOUR": "#e3cf9a"
+  }
+}
