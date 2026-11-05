@@ -1,0 +1,11 @@
+guid,status,evidence,note,source
+2vH$jrDsuQ1R9X_qp2pMuD,rebar,VID_20261031_122651_020/t00050s,"Raft/grade-beam top rebar mat exposed, not yet concreted, in the nearest frames.",ai-rule
+2Ip7HNHkH8QuUSM6MpN0Xj,cast,VID_20261031_122651_020/t00050s,"Cast concrete column with starter bars 3-6 m away at t=38-56 s (clip 020); matched as the nearest modelled column, +/-1 bay.",ai
+2Ip7HNHkH8QuUSM6MpN0X6,formwork,VID_20261031_122651_020/t00002s,Red column formwork right beside the camera at t=0-12 s (clip 020).,ai
+1iv$d9ipX9$As4021pffes,not visible,VID_20261031_122651_020/t00066s,Cannot pick this element out in the nearest frames.,ai-rule
+0KKR7lUqD34fA7Zt3Eg5Vk,not started,VID_20261031_122651_020/t00066s,Open sky above this FL2 area in the nearest frame: no GF deck or slab yet.,ai-rule
+0KKR7lUqD34fA7Zt3Eg5Vx,not started,VID_20261031_122651_020/t00066s,Open sky above this FL2 area in the nearest frame: no GF deck or slab yet.,ai-rule
+0KKR7lUqD34fA7Zt3Eg5S7,not started,VID_20261031_122651_020/t00066s,Open sky above this FL2 area in the nearest frame: no GF deck or slab yet.,ai-rule
+2aiUILnHv4$h0UpsR0yca1,not started,VID_20261031_122651_020/t00066s,No slab ~2 m above the raft anywhere in view: raft rebar open to the sky.,ai-rule
+2I5115FqHBpRYt4bZjCWnZ,not visible,VID_20261031_122651_020/t00066s,Cannot pick this element out in the nearest frames.,ai-rule
+3gzV1Q2eL7VhSUgZLWU1M4,not visible,VID_20261031_122651_020/t00066s,Cannot pick this element out in the nearest frames.,ai-rule
