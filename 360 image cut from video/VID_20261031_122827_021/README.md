@@ -1,0 +1,36 @@
+# VID_20261031_122827_021
+
+_30 frames from 12:28:27; AI-estimated positions (see the index for the coordinate notes)._
+
+| Frame | Time | Storey | Grid | IFC X, Y, Z (mm) | Easting, Northing | Lat, lon | Heading | Placement |
+|---|---|---|---|---|---|---|---|---|
+| [`t00000s.jpg`](t00000s.jpg) | 12:28:27 | HAC-SSL-FL2 | AFX.A-G/19 | -343721500, -402350000, 153027 | 687413.77, 806387.22 | [29.965434, 31.751907](https://maps.google.com/?q=29.965434,31.751907) | 77 (sun) | keyframe, low |
+| [`t00002s.jpg`](t00002s.jpg) | 12:28:29 | HAC-SSL-FL2 | 19/AFX.A-G | -343721486, -402350157, 153027 | 687413.78, 806387.06 | [29.965433, 31.751907](https://maps.google.com/?q=29.965433,31.751907) | 74 (sun) | interpolated, low |
+| [`t00004s.jpg`](t00004s.jpg) | 12:28:31 | HAC-SSL-FL2 | 19/AFX.A-G | -343721471, -402350314, 153027 | 687413.80, 806386.90 | [29.965431, 31.751907](https://maps.google.com/?q=29.965431,31.751907) | 136 (sun) | interpolated, low |
+| [`t00006s.jpg`](t00006s.jpg) | 12:28:33 | HAC-SSL-FL2 | AFX.A-G/19 | -343721457, -402350471, 153027 | 687413.81, 806386.75 | [29.965430, 31.751907](https://maps.google.com/?q=29.965430,31.751907) | 130 (sun) | interpolated, low |
+| [`t00008s.jpg`](t00008s.jpg) | 12:28:35 | HAC-SSL-FL2 | AFX.A-G/19 | -343721443, -402350629, 153027 | 687413.82, 806386.59 | [29.965429, 31.751907](https://maps.google.com/?q=29.965429,31.751907) | 119 (interpolated) | interpolated, low |
+| [`t00010s.jpg`](t00010s.jpg) | 12:28:37 | HAC-SSL-FL2 | AFX.A-G/19 | -343721429, -402350786, 153027 | 687413.84, 806386.43 | [29.965427, 31.751907](https://maps.google.com/?q=29.965427,31.751907) | 107 (interpolated) | interpolated, low |
+| [`t00012s.jpg`](t00012s.jpg) | 12:28:39 | HAC-SSL-FL2 | AFX.A-G/19 | -343721414, -402350943, 153027 | 687413.85, 806386.27 | [29.965426, 31.751907](https://maps.google.com/?q=29.965426,31.751907) | 96 (sun) | interpolated, low |
+| [`t00014s.jpg`](t00014s.jpg) | 12:28:41 | HAC-SSL-FL2 | AFX.A-G/19 | -343721400, -402351100, 153027 | 687413.87, 806386.12 | [29.965424, 31.751907](https://maps.google.com/?q=29.965424,31.751907) | 81 (sun) | interpolated, low |
+| [`t00016s.jpg`](t00016s.jpg) | 12:28:43 | HAC-SSL-FL2 | AFX.A-G/19 | -343721386, -402351257, 153027 | 687413.88, 806385.96 | [29.965423, 31.751908](https://maps.google.com/?q=29.965423,31.751908) | 115 (sun) | interpolated, low |
+| [`t00018s.jpg`](t00018s.jpg) | 12:28:45 | HAC-SSL-FL2 | AFX.A-G/19 | -343721371, -402351414, 153027 | 687413.90, 806385.80 | [29.965421, 31.751908](https://maps.google.com/?q=29.965421,31.751908) | 124 (sun) | interpolated, low |
+| [`t00020s.jpg`](t00020s.jpg) | 12:28:47 | HAC-SSL-FL2 | AFX.A-G/19 | -343721357, -402351571, 153027 | 687413.91, 806385.65 | [29.965420, 31.751908](https://maps.google.com/?q=29.965420,31.751908) | 128 (sun) | interpolated, low |
+| [`t00022s.jpg`](t00022s.jpg) | 12:28:49 | HAC-SSL-FL2 | AFX.A-G/19 | -343721343, -402351729, 153027 | 687413.92, 806385.49 | [29.965419, 31.751908](https://maps.google.com/?q=29.965419,31.751908) | 208 (sun) | interpolated, low |
+| [`t00024s.jpg`](t00024s.jpg) | 12:28:51 | HAC-SSL-FL2 | AFX.A-G/19 | -343721329, -402351886, 153027 | 687413.94, 806385.33 | [29.965417, 31.751908](https://maps.google.com/?q=29.965417,31.751908) | 158 (sun) | interpolated, low |
+| [`t00026s.jpg`](t00026s.jpg) | 12:28:53 | HAC-SSL-FL2 | AFX.A-G/19 | -343721314, -402352043, 153027 | 687413.95, 806385.17 | [29.965416, 31.751908](https://maps.google.com/?q=29.965416,31.751908) | 174 (sun) | interpolated, low |
+| [`t00028s.jpg`](t00028s.jpg) | 12:28:55 | HAC-SSL-FL2 | AFX.A-G/19 | -343721300, -402352200, 153027 | 687413.97, 806385.02 | [29.965414, 31.751908](https://maps.google.com/?q=29.965414,31.751908) | 149 (sun) | keyframe, medium |
+| [`t00030s.jpg`](t00030s.jpg) | 12:28:57 | HAC-SSL-FL2 | AFX.A-G/19 | -343720880, -402352453, 153027 | 687414.39, 806384.76 | [29.965412, 31.751913](https://maps.google.com/?q=29.965412,31.751913) | 160 (sun) | interpolated, low |
+| [`t00032s.jpg`](t00032s.jpg) | 12:28:59 | HAC-SSL-FL2 | AFX.A-G/19 | -343720460, -402352707, 153027 | 687414.81, 806384.51 | [29.965410, 31.751917](https://maps.google.com/?q=29.965410,31.751917) | 190 (sun) | interpolated, low |
+| [`t00034s.jpg`](t00034s.jpg) | 12:29:01 | HAC-SSL-FL2 | AFX.A-G/19 | -343720040, -402352960, 153027 | 687415.23, 806384.26 | [29.965407, 31.751921](https://maps.google.com/?q=29.965407,31.751921) | 186 (interpolated) | interpolated, low |
+| [`t00036s.jpg`](t00036s.jpg) | 12:29:03 | HAC-SSL-FL2 | AFX.A-G/19 | -343719620, -402353213, 153027 | 687415.65, 806384.00 | [29.965405, 31.751926](https://maps.google.com/?q=29.965405,31.751926) | 181 (interpolated) | interpolated, low |
+| [`t00038s.jpg`](t00038s.jpg) | 12:29:05 | HAC-SSL-FL2 | AFX.A-G/19 | -343719200, -402353467, 153027 | 687416.07, 806383.75 | [29.965403, 31.751930](https://maps.google.com/?q=29.965403,31.751930) | 177 (interpolated) | interpolated, low |
+| [`t00040s.jpg`](t00040s.jpg) | 12:29:07 | HAC-SSL-FL2 | AFX.A-18/D | -343718780, -402353720, 153027 | 687416.49, 806383.50 | [29.965401, 31.751934](https://maps.google.com/?q=29.965401,31.751934) | 173 (sun) | interpolated, low |
+| [`t00042s.jpg`](t00042s.jpg) | 12:29:09 | HAC-SSL-FL2 | AFX.A-18/D | -343718360, -402353973, 153027 | 687416.91, 806383.24 | [29.965398, 31.751939](https://maps.google.com/?q=29.965398,31.751939) | 125 (sun) | interpolated, low |
+| [`t00044s.jpg`](t00044s.jpg) | 12:29:11 | HAC-SSL-FL2 | AFX.A-18/S | -343717940, -402354227, 153027 | 687417.33, 806382.99 | [29.965396, 31.751943](https://maps.google.com/?q=29.965396,31.751943) | 262 (sun) | interpolated, low |
+| [`t00046s.jpg`](t00046s.jpg) | 12:29:13 | HAC-SSL-FL2 | AFX.A-18/S | -343717520, -402354480, 153027 | 687417.75, 806382.74 | [29.965394, 31.751947](https://maps.google.com/?q=29.965394,31.751947) | 222 (sun) | interpolated, low |
+| [`t00048s.jpg`](t00048s.jpg) | 12:29:15 | HAC-SSL-FL2 | AFX.A-18/S | -343717100, -402354733, 153027 | 687418.17, 806382.48 | [29.965391, 31.751952](https://maps.google.com/?q=29.965391,31.751952) | 228 (sun) | interpolated, low |
+| [`t00050s.jpg`](t00050s.jpg) | 12:29:17 | HAC-SSL-FL2 | S/AFX.A-18 | -343716680, -402354987, 153027 | 687418.59, 806382.23 | [29.965389, 31.751956](https://maps.google.com/?q=29.965389,31.751956) | 257 (interpolated) | interpolated, low |
+| [`t00052s.jpg`](t00052s.jpg) | 12:29:19 | HAC-SSL-FL2 | S/AFX.A-18 | -343716260, -402355240, 153027 | 687419.01, 806381.98 | [29.965387, 31.751960](https://maps.google.com/?q=29.965387,31.751960) | 285 (sun) | interpolated, low |
+| [`t00054s.jpg`](t00054s.jpg) | 12:29:21 | HAC-SSL-FL2 | S/AFX.A-18 | -343715840, -402355493, 153027 | 687419.43, 806381.72 | [29.965384, 31.751965](https://maps.google.com/?q=29.965384,31.751965) | 263 (sun) | interpolated, low |
+| [`t00056s.jpg`](t00056s.jpg) | 12:29:23 | HAC-SSL-FL2 | S/AFX.A-18 | -343715420, -402355747, 153027 | 687419.85, 806381.47 | [29.965382, 31.751969](https://maps.google.com/?q=29.965382,31.751969) | 223 (sun) | interpolated, low |
+| [`t00058s.jpg`](t00058s.jpg) | 12:29:25 | HAC-SSL-FL2 | S/AFX.A-18 | -343715000, -402356000, 153027 | 687420.27, 806381.22 | [29.965380, 31.751973](https://maps.google.com/?q=29.965380,31.751973) | 249 (sun) | keyframe, low |
