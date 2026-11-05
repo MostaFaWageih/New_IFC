@@ -1,0 +1,14 @@
+guid,status,evidence,note,source
+1zYNzWgODBL9V9cdOOWbrj,cast,VID_20261031_122445_018/t00002s,Plain-concrete blinding: the raft rebar mats seen in the frames sit on cast blinding.,ai-rule
+0_KmFx3qttKdfqFN3hsh6n,rebar,VID_20261031_122445_018/t00042s,"Raft/grade-beam top rebar mat exposed, not yet concreted, in the nearest frames.",ai-rule
+3ERnecAkP14hz4_JSu2UQy,rebar,VID_20261031_122445_018/t00002s,"Raft/grade-beam top rebar mat exposed, not yet concreted, in the nearest frames.",ai-rule
+3061ju5N94YvDiTWXiyN84,not visible,VID_20261031_122445_018/t00002s,Cannot pick this element out in the nearest frames.,ai-rule
+2Ip7HNHkH8QuUSM6MpN0cb,rebar,VID_20261031_122445_018/t00000s,Column rebar cage close by in the opening frames of clip 018.,ai
+2Ip7HNHkH8QuUSM6MpN0WM,rebar,VID_20261031_122445_018/t00042s,"Tall column rebar cage within ~3 m at t=38-50 s, no formwork (clip 018).",ai
+2Ip7HNHkH8QuUSM6MpN1SN,rebar,VID_20261031_122445_018/t00026s,Column rebar cage beside the camera at t=26-28 s (clip 018).,ai
+34M8DLIf5DehrtLoKQzASO,rebar,VID_20261031_122445_018/t00000s,"Raft/grade-beam top rebar mat exposed, not yet concreted, in the nearest frames.",ai-rule
+34M8DLIf5DehrtLoKQzA6y,rebar,VID_20261031_122445_018/t00018s,"Raft/grade-beam top rebar mat exposed, not yet concreted, in the nearest frames.",ai-rule
+2VG9KaZu15AgEfkEGgH3hR,cast,VID_20261031_122445_018/t00000s,Plain-concrete blinding: the raft rebar mats seen in the frames sit on cast blinding.,ai-rule
+2VG9KaZu15AgEfkEGgH3_2,cast,VID_20261031_122445_018/t00014s,Plain-concrete blinding: the raft rebar mats seen in the frames sit on cast blinding.,ai-rule
+1Wj6_Lfv5JsrdFqLY7$xf2,not started,VID_20261031_122445_018/t00000s,Open sky above this FL2 area in the nearest frame: no GF deck or slab yet.,ai-rule
+0VQ0Ixl413D96DARv7OPXY,not started,VID_20261031_122445_018/t00000s,Open sky above this FL2 area in the nearest frame: no GF deck or slab yet.,ai-rule

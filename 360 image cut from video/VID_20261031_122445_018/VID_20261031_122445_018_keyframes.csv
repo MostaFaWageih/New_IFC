@@ -1,0 +1,4 @@
+clip,t_s,storey,grid_a,grid_b,offset_x_m,offset_y_m,offset_z_m,x_m,y_m,heading_override,confidence,reason,landmarks
+VID_20261031_122445_018,0,HAC-SSL-FL2,,,,,0.7,56.0,44.0,,low,"58 s after photo P07; the yellow compressor, timber stock and pit edge seen in photos P03-P05 (Analysis grids 16-17/C) are in view, so the clip starts near P05. Model 360 inconclusive.",yellow compressor; timber stock; raft rebar with pit edge
+VID_20261031_122445_018,36,HAC-SSL-FL2,,,,,0.7,54.0,40.0,,low,"Walked slowly past timber stacks and column rebar cages (t=16-36 s, group of workers); short distance because the group keeps stopping. Position is an estimate between the clip start and the shoring area.",column rebar cage close; timber stacks
+VID_20261031_122445_018,60,HAC-SSL-FL2,,,,,0.7,52.0,36.0,,low,"Ends inside blue shoring frames next to red column formwork (t=54-60 s), heading towards the crane area seen in clips 019-021.",blue shoring; red column formwork
