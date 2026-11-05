@@ -1,0 +1,242 @@
+{
+  "final_location_on_ifc": {
+    "order": 1,
+    "clip": "PHOTO_P02",
+    "stem": "P02",
+    "frame": "IMG_20261031_121630_00_007.jpg",
+    "t_s": 0,
+    "taken": "2026-10-31 12:16:30+02:00",
+    "kind": "photo",
+    "storey": "HAC-SSL-FL2",
+    "grid_ref": "AFX.A-G/18",
+    "dist_to_grid_m": 2.008477,
+    "grid_dx_m": 0.723849,
+    "grid_dy_m": -1.873505,
+    "x": 51.4,
+    "y": 36.3,
+    "z": 153.026545,
+    "ifc_x_mm": -343719600.0,
+    "ifc_y_mm": -402343700.0,
+    "ifc_z_mm": 153026.544883,
+    "easting": 687415.667163,
+    "northing": 806393.517377,
+    "lat": 29.965491,
+    "lon": 31.751927,
+    "confidence": "low",
+    "reason": "Taken 75 s after P01 showing the same red formwork (now NW) and crane mast (now SE, closer): same spot moved ~2 m east along the raft edge. Sun heading 93 deg. Model 360 compared: inconclusive - many identical column bays, so the grid stays an estimate. | Placement: moved by the video evidence (P01 in photo_vs_video.csv), 47.5 m from the Analysis/ spot",
+    "landmarks": "",
+    "heading": 93.162532,
+    "heading_source": "sun",
+    "kf_prev_t": 0,
+    "kf_next_t": 0,
+    "step_dist_m": 2.236068,
+    "step_bearing_deg": 116.565051,
+    "nearest_photo": "P02",
+    "nearest_photo_dist_m": 0.0,
+    "gmaps": "https://maps.google.com/?q=29.965491,31.751927",
+    "gmaps_walk": "https://www.google.com/maps/dir/?api=1&destination=29.965491,31.751927&travelmode=walking",
+    "eye_x": 51.4,
+    "eye_y": 36.3,
+    "eye_z": 153.026545,
+    "target_x": 61.384771,
+    "target_y": 35.748314,
+    "target_z": 153.026545,
+    "id": "PHOTO_P02/P02",
+    "nearby": [
+      {
+        "guid": "0sGg7tRy51R9NRxeepnSJo",
+        "ifc_class": "IfcBeam",
+        "name": "RC_Rectangular Beams:B(1000X1300):772770",
+        "storey": "HAC-SSL-GF",
+        "area": "AFX.A-G/18",
+        "status": "not started",
+        "dist": 2.4
+      },
+      {
+        "guid": "2Ip7HNHkH8QuUSM6MpN0WM",
+        "ifc_class": "IfcColumn",
+        "name": "RC_Rectangular Columns:C(1000x2100)mm:618474",
+        "storey": "HAC-SSL-FL2",
+        "area": "AFX.A-G/AFX.A-16",
+        "status": "rebar",
+        "dist": 4.1
+      },
+      {
+        "guid": "0_KmFx3qttKdfqFN3hsh6n",
+        "ifc_class": "IfcSlab",
+        "name": "Foundation Slab:1000mm THK Foundation Slab:584432:40",
+        "storey": "HAC-SSL-FL2",
+        "area": "AFX.A-G/AFX.A-16",
+        "status": "rebar",
+        "dist": 4.1
+      },
+      {
+        "guid": "3RlGRQ19z0GBAHvecJvKaH",
+        "ifc_class": "IfcWall",
+        "name": "Basic Wall:ABS-ARCH-WALL-Paint with plaster_PT-01:4785893",
+        "storey": "HAC-FFL-B1",
+        "area": "",
+        "status": "design only (not tracked)",
+        "dist": 4.2
+      },
+      {
+        "guid": "3RlGRQ19z0GBAHvecJvKhH",
+        "ifc_class": "IfcWall",
+        "name": "Basic Wall:ABS-ARCH-WALL-Paint with plaster_PT-01:4785894",
+        "storey": "HAC-FFL-B1",
+        "area": "",
+        "status": "design only (not tracked)",
+        "dist": 4.5
+      },
+      {
+        "guid": "2Ip7HNHkH8QuUSM6MpN0X6",
+        "ifc_class": "IfcColumn",
+        "name": "RC_Rectangular Columns:C(800x800)mm:618426",
+        "storey": "HAC-SSL-FL2",
+        "area": "AFX.A-G/AFX.A-17",
+        "status": "formwork",
+        "dist": 4.6
+      },
+      {
+        "guid": "3RlGRQ19z0GBAHvecJvKaz",
+        "ifc_class": "IfcWall",
+        "name": "Basic Wall:ABS-ARCH-WALL-Paint with plaster_PT-01:4785892",
+        "storey": "HAC-FFL-B1",
+        "area": "",
+        "status": "design only (not tracked)",
+        "dist": 4.6
+      },
+      {
+        "guid": "3ozjNnfWv3kAEganCiJPdX",
+        "ifc_class": "IfcBeam",
+        "name": "M_Concrete-Rectangular Beam linntel :Bond Beam 200*400 mm:4514831",
+        "storey": "HAC-FFL-B1",
+        "area": "",
+        "status": "design only (not tracked)",
+        "dist": 5.1
+      },
+      {
+        "guid": "3RlGRQ19z0GBAHvecJvKfv",
+        "ifc_class": "IfcWall",
+        "name": "Basic Wall:ABS-ARCH-WALL-Paint with plaster_PT-01:4785895",
+        "storey": "HAC-FFL-B1",
+        "area": "",
+        "status": "design only (not tracked)",
+        "dist": 5.1
+      },
+      {
+        "guid": "1ovNPuGn9FO9F8TsGsg$ng",
+        "ifc_class": "IfcWall",
+        "name": "Basic Wall:HAC_A_WALL_BW_W02_200mm:1640205",
+        "storey": "HAC-FFL-B1",
+        "area": "",
+        "status": "design only (not tracked)",
+        "dist": 5.1
+      },
+      {
+        "guid": "3RlGRQ19z0GBAHvecJvKbm",
+        "ifc_class": "IfcWall",
+        "name": "Basic Wall:ABS-ARCH-WALL-Paint with plaster_PT-01:4785891",
+        "storey": "HAC-FFL-B1",
+        "area": "",
+        "status": "design only (not tracked)",
+        "dist": 6.1
+      },
+      {
+        "guid": "1rmKUJ$TrFUBHuS2vU91YU",
+        "ifc_class": "IfcColumn",
+        "name": "RC_Rectangular Columns:C(200x200)mm:5157036",
+        "storey": "HAC-FFL-B1",
+        "area": "",
+        "status": "design only (not tracked)",
+        "dist": 6.2
+      },
+      {
+        "guid": "3RlGRQ19z0GBAHvecJvKdn",
+        "ifc_class": "IfcWall",
+        "name": "Basic Wall:ABS-ARCH-WALL-Paint with plaster_PT-01:4785890",
+        "storey": "HAC-FFL-B1",
+        "area": "",
+        "status": "design only (not tracked)",
+        "dist": 7.7
+      },
+      {
+        "guid": "1l1XaF5sXCb9apgeTfeDnf",
+        "ifc_class": "IfcWall",
+        "name": "Basic Wall:ABS-ARCH-WALL-Electrostatic Paint On Cement Plaster_PT-02:1815617",
+        "storey": "HAC-FFL-B1",
+        "area": "",
+        "status": "design only (not tracked)",
+        "dist": 7.7
+      },
+      {
+        "guid": "13pyf5e9IYlLG7HNQ4BwGy",
+        "ifc_class": "IfcSlab",
+        "name": "Foundation Slab:1000mm THK Foundation Slab:584432:33",
+        "storey": "HAC-SSL-FL2",
+        "area": "AFX.A-I/AFX.A-16",
+        "status": "rebar",
+        "dist": 7.8
+      }
+    ]
+  },
+  "camera": {
+    "x": 51.4,
+    "y": 36.3,
+    "z": 153.03,
+    "heading": 93.16,
+    "RENDER_RADIUS_M": 80,
+    "FACE_PX": 1024,
+    "PANO_W": 4096,
+    "model": "combined",
+    "DESIGN_ABOVE_M": 4.0,
+    "HORIZONTAL": [
+      "IfcSlab",
+      "IfcBeam",
+      "IfcCovering",
+      "IfcRoof"
+    ],
+    "ARCH_COLOUR": "#e3cf9a"
+  },
+  "first_analysis": {
+    "position": "P02",
+    "storey": "HAC-SSL-FL2",
+    "grid_a": "B",
+    "grid_b": "12",
+    "offset_x_m": "-1",
+    "offset_y_m": "-4",
+    "offset_z_m": "0.7",
+    "x_m": "",
+    "y_m": "",
+    "heading_override": "",
+    "confidence": "low",
+    "verified": "no",
+    "reason": "Taken 75 s after P01 showing the same red formwork (now NW) and crane mast (now SE, closer): same spot moved ~2 m east along the raft edge. Sun heading 93 deg. Model 360 compared: inconclusive - many identical column bays, so the grid stays an estimate.",
+    "work_stage": "raft rebar;column rebar;column formwork;cast columns",
+    "observed": "Same scene as P01 from ~2 m further east; crane mast ~5 m SE; group of 6 people near mast; HDR bracket"
+  },
+  "video_cross_check": {
+    "position": "P02",
+    "clip": "VID_20261031_121713_010",
+    "t_s": "0",
+    "suggested_storey": "HAC-SSL-FL2",
+    "suggested_x": "49.4",
+    "suggested_y": "37.3",
+    "evidence": "43 s before clip 010 and the same view as clip 010 t=0 (P02 is ~2 m from P01 per Analysis). Same crane-foundation argument as P01."
+  },
+  "photo": {
+    "name": "IMG_20261031_121630_00_007",
+    "taken": "2026-10-31 12:16:30+02:00",
+    "ev": "0",
+    "width": "5952",
+    "height": "2976",
+    "mode": "18MP HDR bracket",
+    "position": "P02",
+    "sun_yaw": "100.546875",
+    "sun_elev_img": "47.8125",
+    "heading_deg": "93.16253177523873",
+    "heading_flag": "",
+    "sun_az": "193.70940677523873",
+    "sun_elev_calc": "44.82071847451993"
+  }
+}

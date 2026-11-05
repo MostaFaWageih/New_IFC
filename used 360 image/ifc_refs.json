@@ -1,0 +1,84 @@
+{
+ "file": "2-1319-HAC-MOD-SSC-00-GL-BS-01_detached--STRUCTRE-MODEL_detached.ifc",
+ "schema": "IFC4X3 in header, read as IFC4X3_ADD2",
+ "unit_m": 0.001,
+ "map_conversion": "#29",
+ "crs": "#28",
+ "site": "#87",
+ "site_guid": "1hpgWBKdT1ewmJZcftP8IU",
+ "grid_count": 2280,
+ "storeys": {
+  "HAC-SSL-FL1": {
+   "step": "#39",
+   "guid": "1e5lafjSHAghj4kuu0ZMl8",
+   "elevation_mm": -12249.999999999998,
+   "z_m": 150.52654488273794
+  },
+  "HAC-SSL-FL2": {
+   "step": "#43",
+   "guid": "12f1l24kT8d9RBml7$P4Yu",
+   "elevation_mm": -11950.000000002752,
+   "z_m": 150.8265448827352
+  },
+  "HAC-SSL-SG": {
+   "step": "#47",
+   "guid": "3Plbe07H16wxCxq3w7K7Cr",
+   "elevation_mm": -9200.0,
+   "z_m": 153.57654488273795
+  },
+  "01-F.P": {
+   "step": "#51",
+   "guid": "2Q0$OZmMnF59jLfgg1N1l4",
+   "elevation_mm": -8800.00000000001,
+   "z_m": 153.97654488273795
+  },
+  "HAC-SSL-U1SG": {
+   "step": "#55",
+   "guid": "1E5LY37rnCnRmSlFD56Tx2",
+   "elevation_mm": -8750.000000005426,
+   "z_m": 154.02654488273254
+  },
+  "HAC-SSL-U2SG": {
+   "step": "#59",
+   "guid": "1IOALYxP5Fs9iT8iO9CiKF",
+   "elevation_mm": -6900.00000000543,
+   "z_m": 155.8765448827325
+  },
+  "HAC-SSL-B1": {
+   "step": "#63",
+   "guid": "1Jdpcnsr96JO2WmiJEXcXn",
+   "elevation_mm": -4700.000000005427,
+   "z_m": 158.07654488273252
+  },
+  "HAC-SSL-ST1": {
+   "step": "#67",
+   "guid": "1E5LY37rnCnRmSlFD56Tvj",
+   "elevation_mm": -3300.0000000054265,
+   "z_m": 159.47654488273253
+  },
+  "HAC-SSL-ST2": {
+   "step": "#71",
+   "guid": "1IOALYxP5Fs9iT8iO9CiNx",
+   "elevation_mm": -2300.0000000054265,
+   "z_m": 160.47654488273253
+  },
+  "HAC-SSL-GF": {
+   "step": "#75",
+   "guid": "0pudd0TGPB4OiLkwVCfEhC",
+   "elevation_mm": -250.00000000562815,
+   "z_m": 162.52654488273234
+  },
+  "HAC-SSL-UGF": {
+   "step": "#79",
+   "guid": "1E5LY37rnCnRmSlFD56TZe",
+   "elevation_mm": 1899.999999994645,
+   "z_m": 164.6765448827326
+  },
+  "01-F.O": {
+   "step": "#83",
+   "guid": "20bAMCNeH0RQtIJo2MBUDL",
+   "elevation_mm": 1999.9999999999611,
+   "z_m": 164.77654488273794
+  }
+ }
+}

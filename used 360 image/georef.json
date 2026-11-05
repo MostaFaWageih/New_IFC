@@ -1,0 +1,36 @@
+{
+ "mc": {
+  "crs": "EPSG:22992",
+  "e0": 1031135.2671632987,
+  "n0": 1208737.2173774764,
+  "h0": 168.22345511726195,
+  "ax": 1.0,
+  "ay": 6.123031769111886e-17,
+  "scale": 1.0
+ },
+ "origin_m": [
+  -343771.0,
+  -402380.0
+ ],
+ "site_centre": {
+  "easting": 687349.4535183259,
+  "northing": 806376.8900625877,
+  "lat": 29.965344879198273,
+  "lon": 31.751239533386315
+ },
+ "footprint_bbox_latlon": [
+  [
+   29.96386907693643,
+   31.75002269702155
+  ],
+  [
+   29.96695323123548,
+   31.752225338558294
+  ]
+ ],
+ "ifcsite_reflatlon": [
+  33.514927,
+  35.477237
+ ],
+ "note": "IfcSite RefLatitude/RefLongitude and the model origin lie ~530 km from the building; the building location is computed from element geometry + IfcMapConversion."
+}

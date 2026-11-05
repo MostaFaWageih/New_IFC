@@ -1,0 +1,3 @@
+position,clip,t_s,suggested_storey,suggested_x,suggested_y,evidence
+P01,VID_20261031_121713_010,0,HAC-SSL-FL2,49.4,37.3,"Clip 010 (2 min after P01) shows the same scene: red formwork NW, crane mast close SSE. The crane mast is ~11 m away at bearing ~158 deg, and the only modelled tower-crane foundation that fits is centred at x=53.6 y=27.1. That puts P01 ~11 m NNW of it, not at grid B/12. The P01 reason itself says 'crane mast ~8 m SE'."
+P02,VID_20261031_121713_010,0,HAC-SSL-FL2,49.4,37.3,"43 s before clip 010 and the same view as clip 010 t=0 (P02 is ~2 m from P01 per Analysis). Same crane-foundation argument as P01."

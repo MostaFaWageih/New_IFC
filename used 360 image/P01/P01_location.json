@@ -1,0 +1,242 @@
+{
+  "final_location_on_ifc": {
+    "order": 0,
+    "clip": "PHOTO_P01",
+    "stem": "P01",
+    "frame": "IMG_20261031_121515_00_004.jpg",
+    "t_s": 0,
+    "taken": "2026-10-31 12:15:15+02:00",
+    "kind": "photo",
+    "storey": "HAC-SSL-FL2",
+    "grid_ref": "18/D",
+    "dist_to_grid_m": 1.274934,
+    "grid_dx_m": 0.92868,
+    "grid_dy_m": -0.873505,
+    "x": 49.4,
+    "y": 37.3,
+    "z": 153.026545,
+    "ifc_x_mm": -343721600.0,
+    "ifc_y_mm": -402342700.0,
+    "ifc_z_mm": 153026.544883,
+    "easting": 687413.667163,
+    "northing": 806394.517377,
+    "lat": 29.9655,
+    "lon": 31.751906,
+    "confidence": "low",
+    "reason": "Sun heading 360 deg: finished government buildings and the excavation sand bank are due E/NE, so the camera is near the east edge of the basement; on the raft rebar mat with column cages starting (lowest storey with column starters = FL2); tower-crane mast cased in a concrete column ~8 m SE; red column formwork ~6 m NW. Grid chosen on the east side of the orthogonal block; exact grid unconfirmed. Model 360 compared: the model has no raft slab immediately E of the camera, consistent with the raft edge and open ground E in the photo; the grid itself is not confirmed. | Placement: moved by the video evidence (P01 in photo_vs_video.csv), 47.5 m from the Analysis/ spot",
+    "landmarks": "",
+    "heading": 359.580559,
+    "heading_source": "sun",
+    "kf_prev_t": 0,
+    "kf_next_t": 0,
+    "step_dist_m": null,
+    "step_bearing_deg": null,
+    "nearest_photo": "P01",
+    "nearest_photo_dist_m": 0.0,
+    "gmaps": "https://maps.google.com/?q=29.965500,31.751906",
+    "gmaps_walk": "https://www.google.com/maps/dir/?api=1&destination=29.965500,31.751906&travelmode=walking",
+    "eye_x": 49.4,
+    "eye_y": 37.3,
+    "eye_z": 153.026545,
+    "target_x": 49.326794,
+    "target_y": 47.299732,
+    "target_z": 153.026545,
+    "id": "PHOTO_P01/P01",
+    "nearby": [
+      {
+        "guid": "0sGg7tRy51R9NRxeepnSJo",
+        "ifc_class": "IfcBeam",
+        "name": "RC_Rectangular Beams:B(1000X1300):772770",
+        "storey": "HAC-SSL-GF",
+        "area": "AFX.A-G/18",
+        "status": "not started",
+        "dist": 1.8
+      },
+      {
+        "guid": "2Ip7HNHkH8QuUSM6MpN0WM",
+        "ifc_class": "IfcColumn",
+        "name": "RC_Rectangular Columns:C(1000x2100)mm:618474",
+        "storey": "HAC-SSL-FL2",
+        "area": "AFX.A-G/AFX.A-16",
+        "status": "rebar",
+        "dist": 3.4
+      },
+      {
+        "guid": "0_KmFx3qttKdfqFN3hsh6n",
+        "ifc_class": "IfcSlab",
+        "name": "Foundation Slab:1000mm THK Foundation Slab:584432:40",
+        "storey": "HAC-SSL-FL2",
+        "area": "AFX.A-G/AFX.A-16",
+        "status": "rebar",
+        "dist": 3.4
+      },
+      {
+        "guid": "3RlGRQ19z0GBAHvecJvKaH",
+        "ifc_class": "IfcWall",
+        "name": "Basic Wall:ABS-ARCH-WALL-Paint with plaster_PT-01:4785893",
+        "storey": "HAC-FFL-B1",
+        "area": "",
+        "status": "design only (not tracked)",
+        "dist": 4.9
+      },
+      {
+        "guid": "3RlGRQ19z0GBAHvecJvKaz",
+        "ifc_class": "IfcWall",
+        "name": "Basic Wall:ABS-ARCH-WALL-Paint with plaster_PT-01:4785892",
+        "storey": "HAC-FFL-B1",
+        "area": "",
+        "status": "design only (not tracked)",
+        "dist": 5.1
+      },
+      {
+        "guid": "2Ip7HNHkH8QuUSM6MpN0X6",
+        "ifc_class": "IfcColumn",
+        "name": "RC_Rectangular Columns:C(800x800)mm:618426",
+        "storey": "HAC-SSL-FL2",
+        "area": "AFX.A-G/AFX.A-17",
+        "status": "formwork",
+        "dist": 5.3
+      },
+      {
+        "guid": "3RlGRQ19z0GBAHvecJvKhH",
+        "ifc_class": "IfcWall",
+        "name": "Basic Wall:ABS-ARCH-WALL-Paint with plaster_PT-01:4785894",
+        "storey": "HAC-FFL-B1",
+        "area": "",
+        "status": "design only (not tracked)",
+        "dist": 5.4
+      },
+      {
+        "guid": "3ozjNnfWv3kAEganCiJPdX",
+        "ifc_class": "IfcBeam",
+        "name": "M_Concrete-Rectangular Beam linntel :Bond Beam 200*400 mm:4514831",
+        "storey": "HAC-FFL-B1",
+        "area": "",
+        "status": "design only (not tracked)",
+        "dist": 5.6
+      },
+      {
+        "guid": "1ovNPuGn9FO9F8TsGsg$ng",
+        "ifc_class": "IfcWall",
+        "name": "Basic Wall:HAC_A_WALL_BW_W02_200mm:1640205",
+        "storey": "HAC-FFL-B1",
+        "area": "",
+        "status": "design only (not tracked)",
+        "dist": 5.6
+      },
+      {
+        "guid": "3RlGRQ19z0GBAHvecJvKbm",
+        "ifc_class": "IfcWall",
+        "name": "Basic Wall:ABS-ARCH-WALL-Paint with plaster_PT-01:4785891",
+        "storey": "HAC-FFL-B1",
+        "area": "",
+        "status": "design only (not tracked)",
+        "dist": 5.6
+      },
+      {
+        "guid": "13pyf5e9IYlLG7HNQ4BwGy",
+        "ifc_class": "IfcSlab",
+        "name": "Foundation Slab:1000mm THK Foundation Slab:584432:33",
+        "storey": "HAC-SSL-FL2",
+        "area": "AFX.A-I/AFX.A-16",
+        "status": "rebar",
+        "dist": 5.7
+      },
+      {
+        "guid": "2Ip7HNHkH8QuUSM6MpN0Zd",
+        "ifc_class": "IfcColumn",
+        "name": "RC_Rectangular Columns:C(1000x1000)mm:618267",
+        "storey": "HAC-SSL-FL2",
+        "area": "AFX.A-I/AFX.A-16",
+        "status": "formwork",
+        "dist": 5.7
+      },
+      {
+        "guid": "1rmKUJ$TrFUBHuS2vU91YU",
+        "ifc_class": "IfcColumn",
+        "name": "RC_Rectangular Columns:C(200x200)mm:5157036",
+        "storey": "HAC-FFL-B1",
+        "area": "",
+        "status": "design only (not tracked)",
+        "dist": 5.7
+      },
+      {
+        "guid": "3RlGRQ19z0GBAHvecJvKdn",
+        "ifc_class": "IfcWall",
+        "name": "Basic Wall:ABS-ARCH-WALL-Paint with plaster_PT-01:4785890",
+        "storey": "HAC-FFL-B1",
+        "area": "",
+        "status": "design only (not tracked)",
+        "dist": 6.5
+      },
+      {
+        "guid": "3RlGRQ19z0GBAHvecJvKWX",
+        "ifc_class": "IfcWall",
+        "name": "Basic Wall:ABS-ARCH-WALL-Paint with plaster_PT-01:4785889",
+        "storey": "HAC-FFL-B1",
+        "area": "",
+        "status": "design only (not tracked)",
+        "dist": 6.5
+      }
+    ]
+  },
+  "camera": {
+    "x": 49.4,
+    "y": 37.3,
+    "z": 153.03,
+    "heading": 359.58,
+    "RENDER_RADIUS_M": 80,
+    "FACE_PX": 1024,
+    "PANO_W": 4096,
+    "model": "combined",
+    "DESIGN_ABOVE_M": 4.0,
+    "HORIZONTAL": [
+      "IfcSlab",
+      "IfcBeam",
+      "IfcCovering",
+      "IfcRoof"
+    ],
+    "ARCH_COLOUR": "#e3cf9a"
+  },
+  "first_analysis": {
+    "position": "P01",
+    "storey": "HAC-SSL-FL2",
+    "grid_a": "B",
+    "grid_b": "12",
+    "offset_x_m": "-3",
+    "offset_y_m": "-3",
+    "offset_z_m": "0.7",
+    "x_m": "",
+    "y_m": "",
+    "heading_override": "",
+    "confidence": "low",
+    "verified": "no",
+    "reason": "Sun heading 360 deg: finished government buildings and the excavation sand bank are due E/NE, so the camera is near the east edge of the basement; on the raft rebar mat with column cages starting (lowest storey with column starters = FL2); tower-crane mast cased in a concrete column ~8 m SE; red column formwork ~6 m NW. Grid chosen on the east side of the orthogonal block; exact grid unconfirmed. Model 360 compared: the model has no raft slab immediately E of the camera, consistent with the raft edge and open ground E in the photo; the grid itself is not confirmed.",
+    "work_stage": "raft rebar;column rebar;column formwork;cast columns",
+    "observed": "1 column in red steel formwork, ~10 column cages, 2 cast columns with scaffold, tower crane mast in column, rebar stock, 6 workers; HDR bracket EV0/+2/-2"
+  },
+  "video_cross_check": {
+    "position": "P01",
+    "clip": "VID_20261031_121713_010",
+    "t_s": "0",
+    "suggested_storey": "HAC-SSL-FL2",
+    "suggested_x": "49.4",
+    "suggested_y": "37.3",
+    "evidence": "Clip 010 (2 min after P01) shows the same scene: red formwork NW, crane mast close SSE. The crane mast is ~11 m away at bearing ~158 deg, and the only modelled tower-crane foundation that fits is centred at x=53.6 y=27.1. That puts P01 ~11 m NNW of it, not at grid B/12. The P01 reason itself says 'crane mast ~8 m SE'."
+  },
+  "photo": {
+    "name": "IMG_20261031_121515_00_004",
+    "taken": "2026-10-31 12:15:15+02:00",
+    "ev": "0",
+    "width": "5952",
+    "height": "2976",
+    "mode": "18MP HDR bracket",
+    "position": "P01",
+    "sun_yaw": "-166.2890625",
+    "sun_elev_img": "49.921875",
+    "heading_deg": "359.5805587092583",
+    "heading_flag": "",
+    "sun_az": "193.29149620925827",
+    "sun_elev_calc": "44.88419698699821"
+  }
+}
