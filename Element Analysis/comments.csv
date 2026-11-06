@@ -1,0 +1,32 @@
+image_id,comment
+P01,"Raft rebar mat tied in two bays, column cages standing (one with red steel formwork, one cast lower lift behind scaffold) and the tower-crane mast on a cast base. Nothing is built above the raft."
+P02,"Column cages (one in red steel formwork), a raft rebar mat edge, a cast lower lift with starter bars and the tower-crane mast on its cast base. Nothing is built above the raft."
+P03,"Raft pit with column rebar cages and the tied mat. The photo does not line up well with the model render, so only three structural elements could be matched with confidence and the rest stay not visible. Structure shown as not started is the slab-on-grade level above the raft."
+P04,Same pit as P03 from another spot. Only one column's vertical rebar could be matched; the rest of the structure at this bearing could not be confirmed. Structure shown as not started is the slab-on-grade level above the raft.
+P05,Column cages and starter bars on the raft with the tied rebar mat between them. Nothing has been built above raft level. Structure shown as not started is the slab-on-grade level above the raft.
+P06,"Tied column cages without formwork or concrete, with raft and pit rebar around them. Nothing is built above the raft."
+P07,Column cages and starter bars with the raft rebar mat in an open pit. Nothing is built above the raft.
+P08,"Camera stands on the GF slab formwork deck: timber decking on shoring towers, no slab rebar or concrete yet. A cast grey column stack and the cast B1 floor below the shoring are complete."
+P09,"Same GF slab formwork deck (timber on shoring towers, no rebar or concrete yet). Cast grey columns and the B1 floor under the shoring are complete."
+P10,"Same GF slab formwork deck seen from its next spot: shoring and timber decking, no rebar or concrete. Cast column stack and B1 floor below are complete."
+VID_20261031_121713_010/t00000s,"First frame of clip 010: raft rebar mat tied in front of the camera, column cages standing (one with red steel formwork at its foot), cast lower lifts with starter bars, and the crane mast on its cast base."
+VID_20261031_121713_010/t00020s,"Camera has not moved since t=0 (judged together with it), so the same elements and statuses apply: raft mat, column cages, cast lifts with starters, crane mast on its base."
+VID_20261031_121713_010/t00030s,"Raft mat tied, column cages standing, a cast lower lift with starter bars, and the crane mast on its cast base. Nothing is built above the raft."
+VID_20261031_121829_011/t00000s,"Column rebar cages with red steel formwork beside them, a cast lower lift with starter bars and the raft mat at the right edge. Nothing is built above the raft."
+VID_20261031_121829_011/t00014s,Column cages with red steel formwork beside them. Few elements were matched in this frame; nothing is built above the raft.
+VID_20261031_122011_012/t00000s,"Tall column cages standing without formwork or concrete, and a tied raft mat in the pit. Nothing is built above the raft. Judged together with t=4. Structure shown as not started is the slab-on-grade level above the raft."
+VID_20261031_122011_012/t00004s,"Same view as t=0 (judged together), so the same elements and statuses apply: tall cages, tied raft mat, nothing above the raft. Structure shown as not started is the slab-on-grade level above the raft."
+VID_20261031_122445_018/t00000s,"Tall column cages without formwork or concrete, and the raft mat tied with workers in the pit. Nothing is built above the raft. Structure shown as not started is the slab-on-grade level above the raft."
+VID_20261031_122445_018/t00036s,Looking back across the raft: standing rebar cages with no formwork or concrete. Levels above are open air.
+VID_20261031_122445_018/t00060s,Column cages with a red formwork panel beside each. Nothing is built above the raft.
+VID_20261031_122554_019/t00000s,Tall tied column cages with red formwork panels at their edge. Nothing is built above the raft. Structure shown as not started is the slab-on-grade level above the raft.
+VID_20261031_122554_019/t00038s,"Cast lower lifts and red formwork with cages or starter bars for the next lift, raft mat tied at the right, and the crane mast on its cast base. Structure shown as not started is the slab-on-grade level above the raft."
+VID_20261031_122651_020/t00000s,"Red steel formwork and scaffold with column cages above, and the raft rebar mat at the foot of a formwork column. Structure shown as not started is the slab-on-grade level above the raft."
+VID_20261031_122651_020/t00066s,Cast lower lifts and formwork with cages and starter bars above. Few elements could be matched in this frame. Structure shown as not started is the slab-on-grade level above the raft.
+VID_20261031_122827_021/t00000s,"Red steel column formwork with scaffold and a cage above, a cast lower lift with starter bars, and the tied raft mat at the foot of the formwork. Structure shown as not started is the slab-on-grade level above the raft."
+VID_20261031_122827_021/t00028s,Tower-crane mast erected on its foundation with a rebar and formwork collar around the base (complete); cast grey lower lifts with starter bars and scaffold beside it. Structure shown as not started is the slab-on-grade level above the raft.
+VID_20261031_122827_021/t00058s,"A cast column with starter bars and a rebar cage with black formwork at its foot. Identification against the other frames is uncertain, so the statuses are conservative. Structure shown as not started is the slab-on-grade level above the raft."
+VID_20261031_122934_022/t00000s,A grey cast column stands up to the slab-formwork deck above (complete) and a second cast column with starter bars is taken as in progress. Structure shown as not started is the slab-on-grade level above the raft.
+VID_20261031_122934_022/t00030s,"Almost nothing could be matched to the model in this frame; only upper levels are marked, and nothing is built there. Structure shown as not started is the slab-on-grade level above the raft."
+VID_20261031_123146_023/t00000s,"Camera on the GF slab formwork deck (same deck as P08-P10): timber decking on shoring towers, no rebar or concrete yet; a cast grey column stands up to the deck below. Judged together with t=4."
+VID_20261031_123146_023/t00004s,"Same deck spot as t=0 (judged together): GF slab formwork in progress, cast column below the deck complete."
